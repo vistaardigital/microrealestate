@@ -27,7 +27,7 @@
     "file-url": "3.0.0",
     "handlebars": "4.7.7",
     "i18n": "0.13.3",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "locale": "0.1.0",
     "moment": "2.29.1",
     "mongodb": "3.6.6",
